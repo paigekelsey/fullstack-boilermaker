@@ -7,7 +7,6 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      HELLOWORLD
       <Routes />
     </div>
   );
